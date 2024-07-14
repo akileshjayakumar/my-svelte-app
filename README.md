@@ -1,4 +1,4 @@
-# Simple Svelte Application
+# My Svelte App Practice
 
 ## Key Features
 
